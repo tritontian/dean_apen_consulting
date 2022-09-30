@@ -94,7 +94,7 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/testimonials/03.jpg",
       "text": "\"迪恩奥朋在“企业应用服务提供商魔力象限”位居高位的象限，所以对于刚毕业的我能进入迪恩工作还是很兴奋的.\"",
       "name": "Jake Niman"
     },
@@ -104,7 +104,7 @@
       "name": "Michael Wood"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      "img": "img/testimonials/01.jpg",
       "text": "\"在迪恩奥朋工作的每一个员工专业素养都是顶尖水平.\"",
       "name": "Eli Harris"
     }
