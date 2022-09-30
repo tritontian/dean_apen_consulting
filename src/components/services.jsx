@@ -3,10 +3,9 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Our Services</h2>
+          <h2>Our Focus</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            无论我们是在讨论方案还是商讨解决方法,我们会时刻运用领导力准则,每个人都是主要角色.
           </p>
         </div>
         <div className='row'>
